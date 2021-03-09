@@ -1,0 +1,4 @@
+mode: set
+codecoverage_with_sonar/main.go:10.27,11.14 1 1
+codecoverage_with_sonar/main.go:14.2,14.12 1 1
+codecoverage_with_sonar/main.go:11.14,13.3 1 1
